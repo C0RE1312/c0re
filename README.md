@@ -1,2 +1,1 @@
-# c0re
-Welcome
+# Hi👋
