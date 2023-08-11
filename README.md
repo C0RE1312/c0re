@@ -4,7 +4,7 @@ I'm Louis, a Software Developer specializing in backend server applications. Wit
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python, JavaScript, TypeScript, C#, VB.NET
+- **Languages:** Python, JavaScript, TypeScript, C#, C++
 - **Frameworks:** Flask, Django, Express.js, Puppeteer, Selenium
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis
 - **Technologies & Tools:** Node.js, Docker, GraphQL, Kubernetes, Nginx
