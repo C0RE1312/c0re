@@ -9,9 +9,3 @@ I'm Louis, a Software Developer specializing in backend server applications. Wit
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis
 - **Technologies & Tools:** Node.js, Docker, GraphQL, Kubernetes, Nginx
 - **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
-
-## 📬 Get in Touch
-
-- GitHub: C0RE1312
-- Email: C0RE.TEC.BUSINESS@GMAIL.COM
-
