@@ -8,4 +8,4 @@ I'm Louis, a Software Developer specializing in backend server applications. Wit
 - **Frameworks:** Flask, Django, Express.js, Puppeteer, Selenium
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis
 - **Technologies & Tools:** Node.js, Docker, GraphQL, Kubernetes, Nginx
-- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
+- **Cloud Platforms:** AWS, Azure, Digital Ocean, Heroku
