@@ -15,3 +15,4 @@ I'm Louis, a Software Developer specializing in backend applications.
 
 - **C++:** Focusing on low-level programming, data structures, and algorithms.
 - **AI in Python:** Exploring machine learning algorithms, natural language processing, and neural networks.
+
