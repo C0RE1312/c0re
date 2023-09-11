@@ -1,6 +1,6 @@
 # 👋 Hello, world!
 
-I'm Louis, a Software Developer specializing in backend applications.
+I'm Louis🇩🇪, a Software Developer specializing in backend applications.
 
 ## 🛠️ Tech Stack
 
